@@ -5,7 +5,7 @@
   },
   "records": {
     "CNAME": "anime4m3.ill.my.id"
-    "TXT": "_vercel.ill.my.id"
+    "TXT": "vc-domain-verify=anime4m3.ill.my.id,def767edc39c9587f75b"
   },
   "proxied": true
 }
