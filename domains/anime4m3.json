@@ -5,6 +5,7 @@
   },
   "records": {
     "CNAME": "anime4m3.ill.my.id"
+    "TXT": "_vercel.ill.my.id"
   },
   "proxied": true
 }
